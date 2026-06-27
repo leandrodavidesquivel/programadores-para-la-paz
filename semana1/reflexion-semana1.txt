@@ -3,12 +3,10 @@ Pregunta 4 — Reflexión de la semana
 ¿Qué relación encuentras entre el uso responsable de la información en internet, 
 la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
 
-La relación que tienen es que usar la información de internet de forma buena y responsable 
-(comprobar que sea verdad cualquier informacion y respetar la privacidad) 
-genera confianza para que la gente participe, la participación aporta ideas 
-y ayuda a tomar mejores decisiones, y mas personas vean el potencial de otros,
-y herramientas como Git permiten que muchas personas trabajen juntas de forma organizada,
-guarden quién hizo cada cambio y arreglen errores sin perder nada así, las tres cosas 
-juntas hacen que los proyectos y decisiones sean más confiables, seguros, 
-claros y fáciles de mejorar, trabajando en equipo con muchas personas de una manera
-respetuosa y cordial.               
+Para mí la relación es que todo se trata de trabajar juntos de forma ordenada y con confianza. Si usamos la información con responsabilidad (verificando que sea cierta y respetando a los demás) la gente se siente más segura para opinar y participar en cosas importantes. La participación ciudadana necesita que las ideas estén basadas en hechos reales, no en mentiras, y así se toman mejores decisiones.
+
+Ahí es donde entra Git, porque es una herramienta que nos ayuda a organizar el trabajo en equipo, por ejemplo en proyectos de la escuela o incluso en cosas más grandes. Con Git podemos ver quién cambió qué, recuperar versiones y que todos puedan aportar sin miedo a dañar el trabajo de los demás. Al final, las tres cosas se conectan: compartir información confiable construye confianza, esa confianza hace que la gente quiera colaborar, y herramientas como Git permiten que esa colaboración sea clara y ordenada, sin perder el control de lo que se hace.
+
+Así todos trabajamos más tranquilos, sabiendo que las ideas son verdaderas y que el trabajo en equipo está bien guardado.
+
+Si necesitas ajustar algo (más corto, más informal, con alguna palabra específica), dime y lo adapto sin problema.         
