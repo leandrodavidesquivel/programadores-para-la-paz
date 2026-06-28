@@ -1,0 +1,5 @@
+La seguridad digital es importante porque en estas plataformas se manejan datos delicados: información personal de los vecinos, opiniones, historial de reportes o acuerdos de la comunidad. Si no hay buena protección, esos datos pueden ser robados, modificados o filtrados, y eso afecta la privacidad de las personas y hace que todos pierdan la confianza en la plataforma.
+
+Además, la seguridad evita ataques como que alguien suplante la identidad de otro, manipule resultados de una votación o tumbe la página. Proteger la plataforma es también proteger la transparencia del proceso: que las decisiones que se tomen sean reales, sin trampas ni información falsa.
+
+En resumen, la seguridad digital es clave para cuidar los datos, mantener la confianza de la gente y asegurar que los procesos comunitarios sean justos, transparentes y sin manipulaciones.

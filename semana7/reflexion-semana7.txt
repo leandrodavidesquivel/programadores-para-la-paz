@@ -1,0 +1,5 @@
+Es importante porque así todo queda organizado en un solo lugar y no se pierden los reportes en grupos de WhatsApp o en conversaciones sueltas. Tener una plataforma permite que cualquier persona de la comunidad registre una incidencia (un bache, una alerta, una falla en un servicio) y que esa información quede guardada con fecha, ubicación y estado. Así se puede consultar después, saber si ya se solucionó o si sigue pendiente.
+
+También ayuda a la transparencia: todos pueden ver qué se ha reportado y cómo van las soluciones, sin necesidad de estar preguntando a cada rato. Para las autoridades o los encargados, es más fácil clasificar los reportes por urgencia, ver patrones (por ejemplo, si un problema se repite mucho en un mismo barrio) y tomar decisiones con base en datos reales.
+
+Además, cuando la gente ve que su reporte no se ignora y que queda registro, siente que su voz vale, y eso motiva a participar más. Al final, una plataforma así fortalece la confianza, mejora la comunicación entre vecinos e instituciones y hace que los problemas se resuelvan más rápido y de forma ordenada.
