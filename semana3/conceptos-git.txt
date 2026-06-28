@@ -1,0 +1,8 @@
+Clone:
+Es una copia completa de un repositorio remoto que se descarga en tu computadora. Permite trabajar con todos los archivos y el historial del proyecto sin necesidad de estar conectado a internet todo el tiempo.
+
+Pull:
+Es la acción de traer los cambios que otros hicieron en el repositorio remoto hacia tu copia local. Sirve para mantener todo actualizado y no quedarse con una versión vieja del proyecto.
+
+Branch (rama):
+Es una línea separada de desarrollo dentro del proyecto. Permite trabajar en nuevas ideas o arreglos sin afectar la rama principal, y luego se pueden unir los cambios.
